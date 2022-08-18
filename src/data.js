@@ -92,8 +92,7 @@ const projects = [
   },
   {
     id: 14,
-    live_link:
-      "https://62fb805e78f0171810ea92ef--capable-biscochitos-7dc2a3.netlify.app/",
+    live_link: "https://capable-biscochitos-7dc2a3.netlify.app/",
     github_link: "https://github.com/MUJTABA1998/blog-we",
     title: "Blog Site",
     image: "/images/blog.png",
